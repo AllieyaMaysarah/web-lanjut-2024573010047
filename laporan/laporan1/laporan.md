@@ -3,7 +3,7 @@
 **Mata Kuliah:** Workshop Web Lanjut  
 **Nama:** A'llieya Maysarah  
 **NIM:** 2024573010047  
-**Kelas:** TI/1B  
+**Kelas:** TI/2B  
 
 ---
 
